@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/JXL JAR/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-api-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-api-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-chrome-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-chrome-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-chromium-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-chromium-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v85-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v85-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v88-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v88-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v89-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v89-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v90-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v90-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v91-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-devtools-v91-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-edge-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-edge-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-firefox-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-firefox-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-firefox-xpi-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-firefox-xpi-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-http-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-http-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-ie-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-ie-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-java-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-java-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-json-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-json-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-opera-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-opera-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-remote-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-remote-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-safari-driver-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-safari-driver-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-support-4.0.0-beta-4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/selenium-support-4.0.0-beta-4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/auto-common-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/auto-service-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/auto-service-annotations-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/byte-buddy-1.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/checker-qual-3.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/error_prone_annotations-2.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/guava-30.1.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/jcommander-1.81.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-buffer-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-codec-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-codec-http-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-codec-socks-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-common-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-handler-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-handler-proxy-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-resolver-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-transport-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-transport-native-epoll-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-transport-native-kqueue-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/netty-transport-native-unix-common-4.1.63.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-api-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-api-metrics-1.2.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-context-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-exporter-logging-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-sdk-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-sdk-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-sdk-extension-autoconfigure-1.2.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-sdk-metrics-1.2.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-sdk-trace-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/opentelemetry-semconv-1.2.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/reactive-streams-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Eclipse/Selenium Jar/lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
